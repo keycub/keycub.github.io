@@ -1,4 +1,6 @@
 h1 {
     background-color: black;
     color: lavender;
+    max-width: auto;
+    display:inline-block;
 }
